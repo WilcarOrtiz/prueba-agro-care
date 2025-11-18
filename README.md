@@ -8,6 +8,10 @@
 
 **AgroCare** es una aplicación de escritorio (un programa que instalas en tu computadora) que te ayuda a **gestionar tu granja o campo agrícola**.
 
+🌐 Documentación Online
+
+Puedes ver la explicación completa y guía visual aquí:
+👉 https://agro-care-explicacion-gi6t.vercel.app/
 Piensa en él como una **libreta digital inteligente** donde puedes:
 
 * 📝 Registrar información sobre tus cultivos
